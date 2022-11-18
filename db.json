@@ -1,5 +1,5 @@
 {
-    "produtos": [
+    "hamburger": [
       {
         "id": 1,
         "nome": "X-Picannha",
@@ -27,9 +27,11 @@
         "descricao": "Pão, carne, queijo, presunto, ovo, alface, ketchup e maionese.",
         "preco": 10.0,
         "categoria_id": 1
-      },
+      }
+    ],
+    "cachorro quente": [
       {
-        "id": 2,
+        "id": 1,
         "nome": "Cachorrão",
         "descricao": " Pão com 1 salsicha ou linguiça, mostarda, ketchup, maionese, billy jack, salada, ovo de codorna, milho, ervilha, presunto, queijo, bacon, calabresa, batata palha e queijo ralado.",
         "preco": 11.0,
@@ -43,25 +45,57 @@
         "categoria_id": 2
       },
       {
-        "id": 5,
+        "id":3,
+        "nome": "Cachorrinho",
+        "descricao": "Pão, salsicha ou linguiça, cebola, tomate, pimentão, queijo, presunto, batata palha, ovo de codorna, ketchup e maionese.",
+        "preco": 10.0,
+        "categoria_id": 2 
+      }
+    ],
+    "bebidas":[
+      {
+        "id": 1,
         "nome": "Coca cola 350ml",
         "descricao": "",
         "preco": 6.0,
         "categoria_id": 3
       },
       {
-        "id": 6,
+        "id": 2,
         "nome": "Coca cola 2L",
         "descricao": "",
         "preco": 12.0,
         "categoria_id": 3
       },
       {
-        "id": 6,
+        "id": 3,
+        "nome": "Guaraná natural",
+        "descricao": "",
+        "preco": 2.0,
+        "categoria_id": 3
+      }    
+    ],
+    "doces":[
+      {
+        "id": 1,
         "nome": "Bolo de pote",
         "descricao": "Sabores: Prestigio, Morango e Chocolate",
         "preco": 5.5,
         "categoria_id": 4
+      },
+      {
+        "id": 2,
+        "nome": "copo da felicidade 500ml",
+        "descricao": "Sabores: Prestigio, Ouro branco, oreo, Kinder bueno...",
+        "preco": 10.0,
+        "categoria_id":4
+      },
+      {
+        "id":3,
+        "nome": "Pavê 500ml",
+        "descricao": "",
+        "preco": 10.5,
+        "categoria_id":4
       }
     ],
     "categorias": [
