@@ -1,0 +1,21 @@
+{
+  "name": "Json-server-M3",
+  "version": "1.0.0",
+  "description": "Projeto individual M3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexsandra2223/Json-server-M3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexsandra2223/Json-server-M3/issues"
+  },
+  "homepage": "https://github.com/Alexsandra2223/Json-server-M3#readme"
+}

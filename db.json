@@ -1,0 +1,86 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "X-Picannha",
+        "descricao": "Pão, carne de picanha, queijo, presunto, ovo, cheedar, bacon, calabresa, alface, ketchup, mostarda, maionese e maionese tempereda.",
+        "preco": 16.0,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "X-Tudo",
+        "descricao": "Pão, carne, queijo, presunto, ovo, cheedar, bacon, calabresa, alface, ketchup, mostarda, maionese e maionese tempereda.",
+        "preco": 11.0,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "X-Papão",
+        "descricao": "Pão, 2 carnes, queijo, presunto, ovo de codorna, cheedar, bacon, calabresa, batata palha, alface, milho, ervilha, cenoura, beterraba, azeitona, passas e queijo ralado",
+        "preco": 16.0,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "X-Tudinho",
+        "descricao": "Pão, carne, queijo, presunto, ovo, alface, ketchup e maionese.",
+        "preco": 10.0,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Cachorrão",
+        "descricao": " Pão com 1 salsicha ou linguiça, mostarda, ketchup, maionese, billy jack, salada, ovo de codorna, milho, ervilha, presunto, queijo, bacon, calabresa, batata palha e queijo ralado.",
+        "preco": 11.0,
+        "categoria_id": 2
+      },
+      {
+        "id": 2,
+        "nome": "Cachorrão duplo",
+        "descricao": " Pão com 2 salsichas ou linguiças, mostarda, ketchup, maionese, billy jack, salada, ovo de codorna, milho, ervilha, presunto, queijo, bacon, calabresa, batata palha e queijo ralado.",
+        "preco": 13.0,
+        "categoria_id": 2
+      },
+      {
+        "id": 5,
+        "nome": "Coca cola 350ml",
+        "descricao": "",
+        "preco": 6.0,
+        "categoria_id": 3
+      },
+      {
+        "id": 6,
+        "nome": "Coca cola 2L",
+        "descricao": "",
+        "preco": 12.0,
+        "categoria_id": 3
+      },
+      {
+        "id": 6,
+        "nome": "Bolo de pote",
+        "descricao": "Sabores: Prestigio, Morango e Chocolate",
+        "preco": 5.5,
+        "categoria_id": 4
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Hambúrgueres"
+      },
+      {
+        "id": 2,
+        "nome": "Cachorro quente"
+      },
+      {
+        "id": 3,
+        "nome": "Refrigerantes"
+      },
+      {
+        "id": 4,
+        "nome": "Doces"
+      }
+      
+    ]
+  }
